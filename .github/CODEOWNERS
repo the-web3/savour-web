@@ -1,0 +1,13 @@
+# CODEOWNERS: https://help.github.com/articles/about-codeowners/
+
+# Primary (global) repo maintainers
+* @guoshijiang
+
+# Documentation
+docs/ @guoshijiang
+
+# code
+ @wengfengbi
+ @csp
+ @guoshijiang
+

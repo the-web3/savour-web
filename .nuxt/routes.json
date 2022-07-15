@@ -1,0 +1,37 @@
+[
+  {
+    "name": "download",
+    "path": "/download",
+    "component": "/Users/bj89182ml/WebWorkspace/savour-web/pages/download/index.vue",
+    "chunkName": "pages/download/index",
+    "_name": "_df55155c"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/bj89182ml/WebWorkspace/savour-web/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_0bcf4df5"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/bj89182ml/WebWorkspace/savour-web/pages/register/index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_682e35ad"
+  },
+  {
+    "name": "safe",
+    "path": "/safe",
+    "component": "/Users/bj89182ml/WebWorkspace/savour-web/pages/safe/index.vue",
+    "chunkName": "pages/safe/index",
+    "_name": "_533f4cd2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/bj89182ml/WebWorkspace/savour-web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_07cbbc4a"
+  }
+]
