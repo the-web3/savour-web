@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/download/index.js": "pages/download/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login/index.js": "pages/login/index.js",
+    "pages/register/index.js": "pages/register/index.js",
+    "pages/safe/index.js": "pages/safe/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/download/index.js": "pages/download/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login/index.js": "pages/login/index.js.map",
+    "pages/register/index.js": "pages/register/index.js.map",
+    "pages/safe/index.js": "pages/safe/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
